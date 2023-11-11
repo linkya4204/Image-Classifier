@@ -1,4 +1,4 @@
-# Image-Classifier
+# Image-Classifier Machine Learning Project
 This is for the project at Udacity AI Programming Course 
 
 
